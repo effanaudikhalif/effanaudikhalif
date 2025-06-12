@@ -44,7 +44,7 @@ const About = ({isDarkMode}) => {
                 <p className='mb-10 max-w-2xl font-Ovo'
                 >You can call me Audi. Yes, just like the car. I grew up racing remote control cars professionally
                 and was fascinated by the tech and engineering behind it. This experience made me major in a technical 
-                field and I have had the opportunity to work in Finance and Tech.</p>
+                field and pursue opportunities in finance and tech.</p>
 
                 <motion.ul
                 initial={{opacity: 0}}
