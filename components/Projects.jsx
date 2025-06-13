@@ -23,7 +23,7 @@ const Projects = ({isDarkMode}) => {
       whileInView={{ y: 0, opacity: 1 }}
       transition={{ delay: 0.5, duration: 0.5 }}
       className='text-center text-5xl font-Ovo'>
-      Personal Projects</motion.h2>
+      Projects</motion.h2>
 
     <motion.div
     initial={{ opacity: 0 }}
